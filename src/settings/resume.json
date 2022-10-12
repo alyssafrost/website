@@ -1,0 +1,153 @@
+{
+  "basics": {
+    "name": "Alyssa Frost",
+    "label": "software engineer",
+    "email": "bhamfrost@gmail.com",
+    "phone": "(XXX) XXX-XXXX",
+    "picture": "jl.png",
+    "x_title": "Hey, I'm",
+    "job": "Software engineer",
+    "description": "Hey, I'm Alyssa Frost, a software engineer. I love all things ethical and technical. Talk soon!",
+    "summary": "based in Alabama, USA.",
+    "keywords": "personal,website,portfolio,template,kit,alyssa,frost,alyssafrost,computer,science,alabama,united,states,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+    "url": "https://bhamfrost.com",
+    "location": {
+      "address": "XX XXXXXstreet",
+      "postalCode": "XXXXX",
+      "city": "Birmingham",
+      "country": "the United States",
+      "countryCode": "US",
+      "region": "Alabama"
+    },
+    "profiles": [
+      {
+        "network": "Google",
+        "username": "bhamfrost@gmail.com",
+        "url": "mailto:bhamfrost@gmail.com",
+        "x_icon": "fab fa-google"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "bhamfrost",
+        "url": "https://www.linkedin.com/in/bhamfrost/",
+        "x_icon": "fab fa-linkedin-in"
+      },
+      {
+        "network": "GitHub",
+        "username": "alyssafrost",
+        "url": "https://github.com/alyssafrost",
+        "x_icon": "fab fa-github"
+      },
+      {
+        "network": "GitLab",
+        "username": "alyssafrost",
+        "url": "https://gitlab.com/alyssafrost",
+        "x_icon": "fab fa-gitlab"
+      },
+      {
+        "network": "Telegram",
+        "username": "svving",
+        "url": "https://t.me/svving",
+        "x_icon": "fab fa-telegram-plane"
+      },
+      {
+        "network": "Discord",
+        "username": "Svving#4177",
+        "url": "https://discord.com",
+        "x_icon": "fab fa-discord"
+      }
+    ]
+  },
+  "resume-download": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon.",
+      "x_icon": "fab fa-save"
+    }
+  ],
+  "work": [
+    {
+      "company": "Company",
+      "position": "President",
+      "website": "http://company.com",
+      "startDate": "2013-01-01",
+      "endDate": "2014-01-01",
+      "summary": "Description...",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "website": "http://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description...",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "gpa": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "website": "http://publication.com",
+      "summary": "Description..."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": ["HTML", "CSS", "Javascript"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Good knowledge"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference..."
+    }
+  ]
+}

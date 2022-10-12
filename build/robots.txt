@@ -1,0 +1,5 @@
+Sitemap: https://bhamfrost.com/sitemap.xml
+User-agent: *
+Disallow: /test/
+
+/check this later for bham sitemap/

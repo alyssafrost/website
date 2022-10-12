@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Resume.js"],"names":["Resume"],"mappings":"wHAAA,kEAEaA,EAAS,WAClB,OAAO","file":"static/js/4.05bb98a1.chunk.js","sourcesContent":["import React from \"react\";\n\nexport const Resume = () => {\n    return <div>Resume...</div>;\n};\n"],"sourceRoot":""}
