@@ -1,2 +1,2 @@
 # Alyssa's personal website
-A bare bones minimalistic website used for developer information inspired by Jo Lienhoop.
+A minimalistic website used for developer information inspired by Jo Lienhoop.
